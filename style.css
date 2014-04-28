@@ -1,0 +1,30 @@
+body {
+  font-family: arial;
+  font-size: 12px;
+  background: orange;
+}
+
+h1 {
+  font-size: 24px
+}
+
+li.section {
+  font-size: 20px
+  border-style: solid;
+  border-width: 1px;
+  padding: 5px 5px 5px 5px;
+  border-color: brown;
+}
+
+li.major {
+  color: green;
+}
+
+li.minor {
+  color: blue;
+}
+
+ol {
+  font-size: 10px;
+  color: black;
+}
